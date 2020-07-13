@@ -62,13 +62,13 @@
 ## Wanna Chat? ☕
 
   <a href="https://www.linkedin.com/in/antonia-symeonidou-88a719151/">
-    <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" width="24px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
   </a>
   <a href="https://twitter.com/NanouuSymeon">
-    <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
   </a>
   <a href="mailto:nakibarbie1017@gmail.com">
-    <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
   </a>
 
 
