@@ -62,7 +62,7 @@
 ## Wanna Chat? ☕
 
   <a href="https://www.linkedin.com/in/antonia-symeonidou-88a719151/">
-    <img align="left" width="24px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
+    <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
   </a>
   <a href="https://twitter.com/NanouuSymeon">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
