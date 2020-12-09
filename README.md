@@ -1,12 +1,12 @@
 <p>
-  <img src="https://media.giphy.com/media/BEzNEGpSITg52/giphy.gif" width="200px"></p>
-
+  <img src="https://media.giphy.com/media/XaFrF1keE8tFC1XUmc/giphy.gif" width="200px">
+  <img src="https://media.giphy.com/media/MCutGG3SC9uH5lZivi/giphy.gif" width="500px"></p>
   # 𝗜'𝗺 Antonia 🎀
 
-📚  I am a **Coding Tutor** For Kids and Teens 🚀 <br>
-🚀  I am a **Junior Developer** who loves Designing ⌨ <br>
-💻  I am an Addicted **Social Media Analyst** 📝  <br>
-❤   In general; I am a **Technology Geek**  🇨🇾
+📚  I am a **Coding Tutor** For Kids and Teens <br>
+🚀  I am a **Junior Developer** who loves Designing  <br>
+💻  I am an Addicted **Social Media Analyst**  <br>
+❤   In general; I am a **Technology Geek**  🇨
 
 ## Technologies I Use
 
