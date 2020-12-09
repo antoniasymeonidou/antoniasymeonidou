@@ -1,12 +1,12 @@
 <p>
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200px"></p>
+  <img src="https://media.giphy.com/media/BEzNEGpSITg52/giphy.gif" width="200px"></p>
 
-  # 𝗜'𝗺 Antonia 🦄
+  # 𝗜'𝗺 Antonia 🎀
 
-❤ I love to create **Coding Exercises** For Kids 🚀 <br>
-🚀 I am a **Junior Web Developer** who loves Backend & Frontend ⌨ <br>
-💻 I am an Addicted **Social Media Analyst** 💎<br>
-❤ In general; I am a **Technology Geek**  🇨🇾
+📚  I am a **Coding Tutor** For Kids and Teens 🚀 <br>
+🚀  I am a **Junior Developer** who loves Designing ⌨ <br>
+💻  I am an Addicted **Social Media Analyst** 📝  <br>
+❤   In general; I am a **Technology Geek**  🇨🇾
 
 ## Technologies I Use
 
