@@ -1,7 +1,8 @@
 <p>
-  <img src="https://media.giphy.com/media/XaFrF1keE8tFC1XUmc/giphy.gif" width="200px">
-  <img src="https://media.giphy.com/media/MCutGG3SC9uH5lZivi/giphy.gif" width="500px"></p>
-  # 𝗜'𝗺 Antonia 🎀
+  <img src="https://media.giphy.com/media/XaFrF1keE8tFC1XUmc/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/MCutGG3SC9uH5lZivi/giphy.gif" width="400px"></p>
+ 
+ 𝗜'𝗺 Antonia 🎀
 
 📚  I am a **Coding Tutor** For Kids and Teens <br>
 🚀  I am a **Junior Developer** who loves Designing  <br>
