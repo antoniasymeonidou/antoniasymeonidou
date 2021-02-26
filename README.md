@@ -1,6 +1,6 @@
 <p>
-  <img src="https://media.giphy.com/media/XaFrF1keE8tFC1XUmc/giphy.gif" width="300px">
-  <img src="https://media.giphy.com/media/MCutGG3SC9uH5lZivi/giphy.gif" width="400px"></p>
+  <img src="https://media.giphy.com/media/YRQ1DI6hJ16PwpXSWM/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/d8i1QJclKIoiWiSHHz/giphy.gif" width="400px"></p>
   
 🎄🌷  𝗜'𝗺 𝒜𝓃𝓉𝑜𝓃𝒾𝒶 
 
