@@ -1,41 +1,41 @@
 <p>
   <img src="https://media.giphy.com/media/YRQ1DI6hJ16PwpXSWM/giphy.gif" width="300px">
   <img src="https://media.giphy.com/media/d8i1QJclKIoiWiSHHz/giphy.gif" width="400px"></p>
-  
-🎄🌷  𝗜'𝗺 𝒜𝓃𝓉𝑜𝓃𝒾𝒶 
 
- 𝕀 𝕒𝕞 𝕒 ℂ𝕠𝕕𝕚𝕟𝕘 𝕋𝕦𝕥𝕠𝕣 𝔽𝕠𝕣 𝕂𝕚𝕕𝕤 𝕒𝕟𝕕 𝕋𝕖𝔼𝕟𝕤
+Hello there! My name is Antonia and I am a Coding Tutor for kids and teens.
 
- 𝕀 𝕒𝕞 𝕒 𝕁𝕦𝕟𝕚𝕠𝕣 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕨𝕙𝕠 𝕝𝕠𝕧𝕖𝕤 𝔻𝕖𝕤𝕚𝕘𝕟𝕚𝕟𝕘
+I am also a Junior Developer who loves FrontEnd, Animations and Designing.
 
- 𝕀 𝕒𝕞 𝕒𝕟 𝔸𝕕𝕕𝕚𝕔𝕥𝕖𝕕 𝕊𝕠𝕔𝕚𝕒𝕝 𝕄𝕖𝕕𝕚𝕒 𝔸𝕟𝕒𝕝𝕪𝕤𝕥
-
- 𝕀𝕟 𝕘𝕖𝕟𝕖𝕣𝕒𝕝; 𝕀 𝕒𝕞 𝕒 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝔾𝕖𝕖𝕜  ✌👽
+I love social media and in general I am a technology geek!
 
 ## Technologies I Use
 
 <table>
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td width="15%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="15%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="15%" align="center">
         <span><strong>JAVASCRIPT</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="15%" align="center">
         <span><strong>ANGULAR</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="15%" align="center">
         <span><strong>PYTHON</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+            <td width="15%" align="center">
+        <span><strong>LUA</strong></span><br><br><br>
+        <img width="104px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
       </td>
       </tbody>
 </table>
@@ -48,32 +48,30 @@
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>More Coding</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="300px">
       </td>
       <td width="20%" align="center">
         <span><strong>Read A Lot</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/l6SQZJCWcXQd7mzoiF/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="300px">
       </td>
       <td width="20%" align="center">
         <span><strong>Meet New People</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/QKTJCw6gXL2Tm5ytVU/giphy.gif" width="300px">
       </td>
       </tbody>
 </table>
 
 <br>
 
-## Wanna Chat? ☕
+## Let's Connect! 
 
-  <a href="https://www.linkedin.com/in/antonia-symeonidou-88a719151/">
-    <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
+  <a href="https://codepen.io/antoniasymeonidou">
+    <img align="left" width="30px" src="http://cdn.onlinewebfonts.com/svg/img_336066.png" />
   </a>
   <a href="https://twitter.com/NanouuSymeon">
-    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
+    <img align="left" width="30px" src="https://cdn.svgporn.com/logos/twitter.svg" />
   </a>
-  <a href="mailto:nakibarbie1017@gmail.com">
-    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
-  </a>
+
 
 
 
