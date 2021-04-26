@@ -1,11 +1,11 @@
 <img src="https://media.giphy.com/media/CWG1H72D2Ubug/giphy.gif" width="300px" height="300px"><br>
 ## About Me
 
-Hello there! My name is Antonia and I am a Coding Tutor for kids and teens.
+👉  &nbsp; Hello there! My name is Antonia and I am a Coding Tutor for kids and teens.
 
-I am also a Junior Developer who loves FrontEnd, Animations and Designing.
+👉  &nbsp; I am also a Junior Developer who loves FrontEnd, Animations and Designing.
 
-I love social media and in general I am a technology geek!
+👉  &nbsp; I love social media and in general I am a technology geek!
 
 <br>
 
@@ -40,6 +40,15 @@ I love social media and in general I am a technology geek!
       </td>
       </tbody>
 </table>
+<br>
+
+
+## My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniasymeonidou&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniasymeonidou&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 ## Goals 2021
