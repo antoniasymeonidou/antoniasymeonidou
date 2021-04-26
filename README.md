@@ -1,11 +1,15 @@
 <p>
   <img src="https://media.giphy.com/media/CWG1H72D2Ubug/giphy.gif" width="300px"></p>
 
+## About Me
+
 Hello there! My name is Antonia and I am a Coding Tutor for kids and teens.
 
 I am also a Junior Developer who loves FrontEnd, Animations and Designing.
 
 I love social media and in general I am a technology geek!
+
+<br>
 
 ## Technologies I Use
 
