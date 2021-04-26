@@ -1,6 +1,5 @@
 <p>
-  <img src="https://media.giphy.com/media/CWG1H72D2Ubug/giphy.gif" width="300px">
-  <img src="" width="400px"></p>
+  <img src="https://media.giphy.com/media/CWG1H72D2Ubug/giphy.gif" width="300px"></p>
 
 Hello there! My name is Antonia and I am a Coding Tutor for kids and teens.
 
@@ -48,15 +47,15 @@ I love social media and in general I am a technology geek!
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>More Coding</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="300px">
+        <img height="200px" src="https://image.freepik.com/free-vector/tired-overworked-secretary-accountant-working-laptop-near-pile-folders-throwing-papers-vector-illustration-stress-work-workaholic-busy-office-employee-concept_74855-13264.jpg" width="300px">
       </td>
       <td width="20%" align="center">
         <span><strong>Read A Lot</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="300px">
+        <img height="200px" src="https://image.freepik.com/free-vector/woman-relaxing-home-girl-drinking-hot-tea-reading-book-armchair-flat-vector-illustration-leisure-evening-literature_74855-8684.jpg" width="300px">
       </td>
       <td width="20%" align="center">
         <span><strong>Meet New People</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/QKTJCw6gXL2Tm5ytVU/giphy.gif" width="300px">
+        <img height="200px" src="https://image.freepik.com/free-vector/hang-out-concept-illustration_114360-1197.jpg" width="300px">
       </td>
       </tbody>
 </table>
