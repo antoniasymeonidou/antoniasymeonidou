@@ -1,5 +1,5 @@
 <p>
-  <img src="https://media.giphy.com/media/fxfqHCdTO3YRMcxmJH/giphy.gif" width="300px">
+  <img src="https://media.giphy.com/media/CWG1H72D2Ubug/giphy.gif" width="300px">
   <img src="" width="400px"></p>
 
 Hello there! My name is Antonia and I am a Coding Tutor for kids and teens.
