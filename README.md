@@ -1,6 +1,6 @@
 <p>
-  <img src="https://media.giphy.com/media/YRQ1DI6hJ16PwpXSWM/giphy.gif" width="300px">
-  <img src="https://media.giphy.com/media/d8i1QJclKIoiWiSHHz/giphy.gif" width="400px"></p>
+  <img src="https://media.giphy.com/media/fxfqHCdTO3YRMcxmJH/giphy.gif" width="300px">
+  <img src="" width="400px"></p>
 
 Hello there! My name is Antonia and I am a Coding Tutor for kids and teens.
 
