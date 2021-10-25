@@ -5,7 +5,7 @@
   </br>
 CSS Content Creator <img src="https://media.giphy.com/media/iehsZQR0fyJxUmR00X/giphy.gif" width="50">
   </br>
-UX/UI Designer <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" width="50"> 
+
 </em></p>
 
 <br>
