@@ -1,6 +1,6 @@
 ### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm [Antonia!](https://www.linkedin.com/in/antonia-s-88a719151/) 
 
-<img align='left' src="https://docs.google.com/drawings/d/e/2PACX-1vRpCY3Y02YjY74-lAQw--1peIj5cpzbOa-HdwNracvZ4ahWHBwIHVLc__cOgMa1bgYhQrW4AVCaXxK_/pub?w=960&h=720" width="250">
+
 <p><em>Coding Tutor <img src="https://media.giphy.com/media/H1GTEHgESxAAD2BuHR/giphy.gif" width="50">
   </br>
 CSS Content Creator <img src="https://media.giphy.com/media/iehsZQR0fyJxUmR00X/giphy.gif" width="50">
