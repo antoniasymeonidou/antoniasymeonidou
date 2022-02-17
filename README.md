@@ -1,18 +1,12 @@
-### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm [Antonia!](https://www.linkedin.com/in/antonia-s-88a719151/) 
+![Untitled drawing (9)](https://user-images.githubusercontent.com/59022292/154501475-12e06f23-46ab-40e8-b319-46248e5814f2.png)
 
-<p><em>Coding Tutor <img src="https://media.giphy.com/media/H1GTEHgESxAAD2BuHR/giphy.gif" width="50">
-  </br>
-CSS Content Creator <img src="https://media.giphy.com/media/iehsZQR0fyJxUmR00X/giphy.gif" width="50">
-  </br>
-
-</em></p>
-
-<br>
+<h1> Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm Antonia! </h1>
 
 ### <img src="https://media.giphy.com/media/LRlblMDrxibqF42H44/giphy.gif" width="50"> Details about me...  
 
 ```javascript
 const nickname_nanou = {
+  my_profession: "Coding Tutor" | "CSS Content Creator",
   my_character: "shy" | "funny",
   my_languages: [Javascript, HTML, CSS, Python, Lua],
   my_tools: [Node],
@@ -33,7 +27,7 @@ const nickname_nanou = {
 ```
 <br>
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniasymeonidou&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniasymeonidou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### <img src="https://media.giphy.com/media/Q5pH4UmOiQciITstXU/giphy.gif" width=50> Find Me Here...
 
