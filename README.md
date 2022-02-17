@@ -1,9 +1,5 @@
 ### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm [Antonia!](https://www.linkedin.com/in/antonia-s-88a719151/) 
 
-<p> 
-  <img src="https://profile-counter.glitch.me/{antoniasymeonidou}/count.svg" />
-</p>
-
 <p><em>Coding Tutor <img src="https://media.giphy.com/media/H1GTEHgESxAAD2BuHR/giphy.gif" width="50">
   </br>
 CSS Content Creator <img src="https://media.giphy.com/media/iehsZQR0fyJxUmR00X/giphy.gif" width="50">
